@@ -1,0 +1,36 @@
+@media (max-width: 480px) {
+
+.mobile-h2 {
+    text-align: center;
+}
+
+
+.client-info{
+
+ margin-top: 35px;
+
+  }  
+
+
+.client-details{
+    text-align: center;
+    margin-left: 23%;
+}
+
+.flag-mobile{
+    margin-top: -1px;
+}
+
+.mobile-details{
+    text-align: center;
+    margin-top: 35px;
+}
+
+
+svg:not(:root) {
+    vertical-align: middle;
+    width: 5% !important;
+    margin-left: 44%;
+}
+
+}
