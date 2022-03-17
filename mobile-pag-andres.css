@@ -1,0 +1,74 @@
+
+
+
+@media only screen and (min-width: 1024px) {
+
+    .testimonial-section .client-info .client-details {
+    display: inline-block;
+    margin-right: 130px !important;
+    vertical-align: middle;
+}
+
+
+.testimonial-section {
+    padding: 60px 0;
+}
+
+
+.social-icons{
+
+margin-left: -172px;
+margin-top: 20px;
+
+}
+
+}
+
+
+.testimonial-section {
+    padding: 80px 0;
+    height: 55%;
+}
+
+
+@media (max-width: 480px) {
+
+.mobile-h2 {
+    text-align: center;
+}
+
+
+.testimonial-section {
+    padding: 80px 0;
+    height: auto;
+}
+
+.client-info{
+
+ margin-top: 35px;
+
+  }  
+
+
+.client-details{
+    text-align: center;
+    margin-left: 23%;
+}
+
+.flag-mobile{
+    margin-top: -3px !important;
+}
+
+.mobile-details{
+    text-align: center;
+    margin-top: 35px;
+}
+
+
+svg:not(:root) {
+    vertical-align: middle;
+    width: 5% !important;
+    margin-left: 50%;
+}
+
+}
