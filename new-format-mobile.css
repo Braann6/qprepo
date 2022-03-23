@@ -1,0 +1,10 @@
+
+
+@media (max-width: 480px) {
+
+ul.intro-description {
+    /* margin: 24px 15px; */
+    margin: 24px 20px 0 !important;
+}
+
+}
